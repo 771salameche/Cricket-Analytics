@@ -16,6 +16,7 @@ The dataset we collected for this IPL match analysis contains the following colu
 - **fielders**: Names of fielders involved in the dismissal (if any).
 
 **Analysis using Python**
+
 Let's begin by visualizing the run distribution per over for both teams to illustrate the scoring trends throughout the innings:
 
 ![Figure_1](https://github.com/771salameche/Cricket-Analytics/assets/123024504/08188e77-005c-4b32-b294-3de886333aa5)
@@ -110,6 +111,7 @@ The plotted run rates for each over, alongside the marked moments of wicket-taki
 
 
 **Summary**
+
 The RCB vs DC match demonstrated a combination of strategic batting, aggressive bowling, and crucial partnerships. RCB's sustained higher cumulative run rate and timely wicket-taking in key overs were pivotal to their victory. The in-depth analysis of match phases and individual player performances not only underscores the nuances of T20 cricket but also provides insights into how momentum shifts and strategic decisions influence the game's outcome.
 
 
